@@ -1,2 +1,2 @@
-#MojGit
+#Git
 Ovo je moj git
